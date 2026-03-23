@@ -1,0 +1,27 @@
+{
+  "name": "tron-ares-theme",
+  "displayName": "Tron: Ares",
+  "description": "Dark theme for VS Code inspired by Tron: Ares — neon red, amber and white on deep black",
+  "version": "1.0.0",
+  "publisher": "jmsD3v",
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "keywords": ["tron", "ares", "dark", "neon", "red", "typescript"],
+  "galleryBanner": {
+    "color": "#0D0D0D",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmsD3v/tron-ares-theme"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [{
+      "label": "Tron: Ares",
+      "uiTheme": "vs-dark",
+      "path": "./tron-ares-color-theme.json"
+    }]
+  }
+}
