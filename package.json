@@ -2,7 +2,7 @@
   "name": "tron-ares-theme-2026",
   "displayName": "Tron: Ares",
   "description": "Dark theme for VS Code inspired by Tron: Ares — neon red, amber and white on deep black",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "jmsD3v",
   "engines": { "vscode": "^1.70.0" },
   "categories": ["Themes"],
