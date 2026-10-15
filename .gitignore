@@ -23,3 +23,6 @@ coverage/
 npm-debug.log*
 pnpm-debug.log*
 .pnpm-debug.log*
+
+# Paquetes generados del tema
+*.vsix
